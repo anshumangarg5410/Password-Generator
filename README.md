@@ -31,7 +31,7 @@ Clone the repository and install dependencies:
 git clone https://github.com/anshumangarg5410/Password-Generator.git
 cd Password-Generator
 npm install
-npm run dev
+npm run dev```
 
 ## 🙋‍♂️ Author
 
