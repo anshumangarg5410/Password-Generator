@@ -32,3 +32,7 @@ git clone https://github.com/anshumangarg5410/Password-Generator.git
 cd Password-Generator
 npm install
 npm run dev
+
+## 🙋‍♂️ Author
+
+Made with ❤️ by [Anshuman Garg](https://github.com/anshumangarg5410)
