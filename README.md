@@ -16,10 +16,6 @@ Easily generate strong passwords with customizable options for length, numbers, 
 
 👉 [Check Live Project](https://anshumangarg5410.github.io/Password-Generator/)
 
-## 📸 Preview
-
-![Password Generator Preview](./preview.png)
-
 ## 🛠️ Built With
 
 - ⚛️ [React](https://reactjs.org/)
