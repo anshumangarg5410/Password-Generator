@@ -3,7 +3,9 @@
 A sleek and responsive **Password Generator** built using **React**, **Vite**, and **Tailwind CSS**.  
 Easily generate strong passwords with customizable options for length, numbers, and special characters.
 
+## 📄 License
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
+This project is open source under the [MIT License](LICENSE).
 
 ## 🚀 Features
 
